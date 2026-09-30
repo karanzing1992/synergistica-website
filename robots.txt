@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://karanzing1992.github.io/synergistica-website/sitemap.xml
+
+Sitemap: https://synergistica.in/sitemap.xml
