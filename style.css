@@ -23,3 +23,5 @@
 
 /* AI network visibility fallback */
 .ai-network{background-image:radial-gradient(circle at 18% 28%,rgba(181,154,117,.28) 0 1.5px,transparent 2px),radial-gradient(circle at 36% 68%,rgba(23,56,47,.22) 0 1.5px,transparent 2px),radial-gradient(circle at 53% 31%,rgba(181,154,117,.22) 0 1.5px,transparent 2px);background-size:140px 120px,170px 145px,210px 165px}.ai-network canvas{opacity:1}.hero-copy{background:linear-gradient(90deg,rgba(248,245,238,.88),rgba(248,245,238,.72) 72%,rgba(248,245,238,.08))}.hero-visual{background:rgba(23,56,47,.86)}
+
+.form-status{grid-column:1/-1;min-height:24px;font-size:13px;line-height:1.5;color:var(--forest)}.form-status a{color:inherit;font-weight:700}.native-form button:disabled{opacity:.6;cursor:wait}
