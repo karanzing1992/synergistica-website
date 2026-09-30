@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-labelledby="t d"><title id="t">Synergistica Staffing Solutions</title><desc id="d">Intertwined S people and progress mark</desc><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c49a5a"/><stop offset="1" stop-color="#8c6736"/></linearGradient></defs><g transform="translate(8 8)"><path d="M72 8C39 6 17 25 18 48c1 20 18 28 39 35 16 5 23 9 22 17-1 7-9 11-21 11-17 0-31-8-42-20 4 25 22 39 46 39 29 0 48-15 49-36 1-22-17-31-41-39-14-5-20-9-19-15 1-7 9-11 20-11 14 0 27 6 37 16C104 22 91 10 72 8Z" fill="#12382f" transform="scale(.8)"/><path d="M70 14c18 6 30 19 36 36-11-9-21-14-31-16 7 7 12 15 14 24-5-7-13-13-23-17-8-3-12-7-12-12 0-7 6-12 16-15Z" fill="url(#g)" transform="scale(.8)"/><circle cx="78" cy="10" r="7" fill="url(#g)" transform="scale(.8)"/></g><g transform="translate(112 27)"><text x="0" y="29" font-family="Georgia,Times New Roman,serif" font-size="36" letter-spacing="2" fill="#12382f">SYNERGISTICA</text><text x="2" y="55" font-family="Arial,sans-serif" font-size="12" letter-spacing="6" fill="#9a7440">STAFFING SOLUTIONS</text><line x1="2" y1="67" x2="340" y2="67" stroke="#c49a5a" stroke-width="1"/><text x="2" y="86" font-family="Arial,sans-serif" font-size="9" letter-spacing="3" fill="#4b4a45">PEOPLE · POTENTIAL · PROGRESS</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="t d"><title id="t">Synergistica Staffing Solutions</title><desc id="d">Minimal abstract S brand mark with Synergistica wordmark</desc>
+<g transform="translate(20 8)">
+  <path d="M54 4c17 0 28 8 39 20L66 28c-12 2-19 8-22 16-5-7-7-13-7-19C37 12 43 4 54 4Z" fill="#17382f"/>
+  <path d="M34 31c3 16 12 25 27 34 12 7 18 13 19 22-3 12-11 18-23 18-16 0-27-10-34-26 8 7 17 10 25 10 7 0 11-3 12-7 1-5-4-9-15-15-14-8-21-19-21-31 0-4 1-8 2-12 1 3 4 5 8 7Z" fill="#b59a75"/>
+  <path d="M67 49c16 4 27 14 29 29 1 10-2 19-8 27 1-14-6-25-21-34-8-5-14-10-18-16 6-6 12-8 18-6Z" fill="#17382f"/>
+</g>
+<g transform="translate(135 35)">
+ <text x="0" y="35" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="300" letter-spacing="7" fill="#17382f">SYNERGISTICA</text>
+ <text x="3" y="68" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="8" fill="#b59a75">STAFFING SOLUTIONS</text>
+ <line x1="3" y1="87" x2="425" y2="87" stroke="#b59a75" stroke-width="1"/>
+ <text x="3" y="108" font-family="Arial,Helvetica,sans-serif" font-size="9.5" letter-spacing="4" fill="#343d39">PEOPLE  |  POTENTIAL  |  PROGRESS</text>
+</g></svg>
