@@ -1,0 +1,7 @@
+name = "synergistica-forms"
+main = "worker.js"
+compatibility_date = "2026-09-30"
+
+[[r2_buckets]]
+binding = "SUBMISSIONS"
+bucket_name = "synergistica-submissions"
